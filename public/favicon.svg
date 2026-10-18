@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#0F1219"/>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" stroke="#1E2535"/>
+  <!-- Code shelf shelf lines & brackets -->
+  <path d="M10 10L6 16L10 22" stroke="#6366F1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 10L26 16L22 22" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 9L14 23" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+</svg>
